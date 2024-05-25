@@ -6,6 +6,7 @@ Je suis passionné par l'innovation et l'interactivité, et j'ai choisi Python p
 
 # Compétences et Méthodologies
 Conception de Jeux : Élaboration de concepts de jeu innovants et captivants.
+
 Programmation Orientée Objet (POO) : Utilisation des principes de la POO pour structurer le code de manière efficace et réutilisable.
 Bibliothèques de Développement : Maîtrise de Pygame et d'autres bibliothèques pour le développement de jeux 2D.
 Tests et Débogage : Mise en œuvre de tests rigoureux pour garantir la stabilité et la qualité du jeu.
